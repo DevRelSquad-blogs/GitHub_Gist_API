@@ -4,7 +4,7 @@
 
 This project provides a simple Python script to interact with the **GitHub Gist API** for managing and sharing your code snippets. You can create, delete, and update gists in your GitHub account.
 
-For additional insights and practical use cases, please see this article on GitHub Gist API.
+For additional insights and practical use cases, please see this article on [GitHub Gist API](https://www.devrelsquad.com/post/how-to-create-and-share-code-snippets-using-the-github-gist-api).
 
 
 ## Setup
